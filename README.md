@@ -1,6 +1,24 @@
 # 💫 About Me:
-Advancing my knowledge in biochemistry and artificial intelligence to develop cutting-edge solutions for drug discovery.<br>Projects that involve AI-driven drug discovery, molecular simulations, and computational biochemistry.<br>Innovative approaches and collaborations in the field of generative AI for optimizing compound binding to target sites.<br>Advanced AI techniques, drug discovery methodologies, and how to integrate these fields to create impactful solutions.<br>Biochemistry and its applications in drug discovery<br>Generative AI and its potential in healthcare<br>Grand strategy video games<br>Arsenal FC and McLaren F1<br>When I'm not immersed in the world of biochemistry or AI, you can find me strategizing in grand strategy video games, cheering for Arsenal, or following McLaren in F1 races.<br><br>
+About Me
+I'm currently working on
+Advancing my knowledge in biochemistry and artificial intelligence to develop cutting-edge solutions for drug discovery.
 
+I'm looking to collaborate on
+Projects that involve AI-driven drug discovery, molecular simulations, and computational biochemistry.
+
+I'm looking for help with
+Innovative approaches and collaborations in the field of generative AI for optimizing compound binding to target sites.
+
+I'm currently learning
+Advanced AI techniques, drug discovery methodologies, and how to integrate these fields to create impactful solutions.
+
+Ask me about
+Biochemistry and its applications in drug discovery
+Generative AI and its potential in healthcare
+Grand strategy video games
+Arsenal FC and McLaren F1
+Fun fact
+When I'm not immersed in the world of biochemistry or AI, you can find me strategizing in grand strategy video games, cheering for Arsenal, or following McLaren in F1 races.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mihirhurwanth/) 
